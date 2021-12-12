@@ -63,7 +63,7 @@ header div ul li {
     background-position: center;
 }
 
-/* SEO, ORM, and SMM Content Boxes START */
+/* Content Boxes START */
 .content-boxes {
     width: 75%;
     display: inline-block;
@@ -87,7 +87,7 @@ header div ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* SEO, ORM, and SMM Informative Boxes END */
+/* Content Boxes END */
 
 /* Benefits Section START */
 .benefits {
